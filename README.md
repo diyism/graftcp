@@ -1,3 +1,9 @@
+    $ wget https://github.com/hmgle/graftcp/releases/download/v0.8.3/graftcp_v0.8.3_linux-amd64.tar.gz
+    $ tar xvf https://github.com/hmgle/graftcp/releases/download/v0.8.3/graftcp_v0.8.3_linux-amd64.tar.gz
+    $ sudo install usr/bin/graftcp /usr/bin/
+    $ graftcp --socks5 127.0.0.1:7897 curl https://myip.ipip.net
+    当前 IP：104.28....  来自于：中国 上海 上海  cloudflare.com
+
 # graftcp
 
 **English** | [简体中文](./README.zh-CN.md)
